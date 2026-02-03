@@ -140,8 +140,8 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 | <img src="https://github.com/username2.png" width="60"/> | **조성현** | Frontend · Mobile App · Design      |
 | <img src="https://github.com/username3.png" width="60"/> | **김효림** | Backend · Server                    |
 | <img src="https://github.com/username4.png" width="60"/> | **백새빈** | Frontend · Mobile App · Design      |
-| <img src="https://github.com/username5.png" width="60"/> | **손유빈** | Backend · Hardware                  |
-| <img src="https://github.com/username6.png" width="60"/> | **김달해** | Frontend · Mobile App · Design      |
+| <img src="https://github.com/SUB1023.png" width="60"/> | **손유빈** | Backend · Hardware                  |
+| <img src="https://github.com/dalhye.png" width="60"/> | **김달해** | Frontend · Mobile App · Design      |
 
 > 캡스톤 디자인 프로젝트  
 > Hardware × Software 융합 팀 **HECHI**
