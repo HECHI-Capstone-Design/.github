@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="HECHI 로고" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
+<img width="500" height="500" alt="HECHI 로고" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
 
 # HECHI  
 > 종이책 독서를 자동으로 기록하는 하이브리드 독서 관리 시스템
