@@ -1,5 +1,6 @@
-<img width="1024" height="1024" alt="HECHI로고" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
-### HECHI
+<img width="1024" height="1024" alt="HECHI 로고" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
+
+# HECHI  
 > 종이책 독서를 자동으로 기록하는 하이브리드 독서 관리 시스템
 
 **HECHI**는 종이책의 몰입감은 유지하면서  
@@ -64,7 +65,7 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 
 ## 🏗 시스템 아키텍처
 
-<img width="1968" height="934" alt="image" src="https://github.com/user-attachments/assets/2caa7ca8-bc92-4d10-a09f-0e4f3123aa3a" />
+<img width="1968" height="934" alt="HECHI Architecture" src="https://github.com/user-attachments/assets/2caa7ca8-bc92-4d10-a09f-0e4f3123aa3a" />
 
 ---
 
@@ -92,24 +93,26 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 ### 📖 독서 상세 화면
 - 페이지 수 및 진행률 표시
 - 독서 시간 자동 기록
-- 북마크 / 메모 관리
+- 북마크 / 하이라이트 / 메모 관리
 
 ---
 
 ### 📊 독서 분석 화면
-- 일 / 주 / 월 독서 통계
+- 일 · 주 · 월 독서 통계
 - 페이지 수 · 완독률 시각화
 - 캘린더 기반 독서 기록
 
 ---
 
-## ⚙️ 주요 기능
+## 📱 주요 기능
 
 - ISBN 기반 도서 등록
 - 종이책 독서 자동 기록
-- 독서 세션 단위 데이터 관리
-- 독서 패턴 분석 및 시각화
-- 독서 성취 기반 동기 부여
+- 독서 세션 단위 관리
+- 📚 독서 보관함  
+  - 북마크 / 하이라이트 / 메모 관리
+- 📊 일 · 주 · 월 독서 통계 제공
+- 🏆 독서 성취 기반 동기 부여
 
 ---
 
@@ -125,24 +128,26 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 
 ## 👥 Team HECHI
 
-| 이름 | 역할 | GitHub |
-|---|---|---|
-| 강여름 | 프론트엔드 · 프로젝트 총괄 · 모바일 어플리케이션 · 디자인 | https://github.com/sunmer79 |
-| 조성현 | 프론트엔드 · 총무 · 모바일 어플리케이션 · 디자인 | https://github.com/username2 |
-| 김효림 | 백엔드 · 서버 | https://github.com/username3 |
-| 백새빈 | 프론트엔드 · 모바일 어플리케이션 · 디자인 | https://github.com/username4 |
-| 손유빈 | 백엔드 · 하드웨어 설계 | https://github.com/username5 |
-| 김달해 | 프론트엔드 · 모바일 어플리케이션 · 디자인 | https://github.com/username6 |
+| 프로필                                                      | 이름      | 역할                                  |
+| -------------------------------------------------------- | ------- | ----------------------------------- |
+| <img src="https://github.com/sunmer79.png" width="60"/>  | **강여름** | PM · Frontend · Mobile App · Design |
+| <img src="https://github.com/username2.png" width="60"/> | **조성현** | Frontend · Mobile App · Design      |
+| <img src="https://github.com/username3.png" width="60"/> | **김효림** | Backend · Server                    |
+| <img src="https://github.com/username4.png" width="60"/> | **백새빈** | Frontend · Mobile App · Design      |
+| <img src="https://github.com/username5.png" width="60"/> | **손유빈** | Backend · Hardware                  |
+| <img src="https://github.com/username6.png" width="60"/> | **김달해** | Frontend · Mobile App · Design      |
 
 > 캡스톤 디자인 프로젝트  
 > Hardware × Software 융합 팀 **HECHI**
 
 ---
 
-## 📂 Repository Structure
-| 파트 | GitHub 링크 |
-🖥 Backend | |
-🌐 Frontend | |
+## 📂 Repository
+
+| 파트                           | GitHub 링크                                                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🖥 **Backend**               | [https://github.com/HECHI-Capstone-Design/hechi-backend](https://github.com/HECHI-Capstone-Design/hechi-backend)   |
+| 📱 **Frontend (Mobile App)** | [https://github.com/HECHI-Capstone-Design/hechi-frontend](https://github.com/HECHI-Capstone-Design/hechi-frontend) |
 
 
 
