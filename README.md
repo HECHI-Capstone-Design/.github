@@ -1,3 +1,4 @@
+<div align="center">
 <img width="500" height="500" alt="HECHI 로고" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
 
 # HECHI  
