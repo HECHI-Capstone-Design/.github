@@ -1,12 +1,10 @@
 <div align="center">
   <img width="350" alt="HECHI Logo" src="https://github.com/user-attachments/assets/9ec25181-55cc-471b-a34c-1e50eb93da8d" />
   
-  <h1>HECHI</h1>
-  
-  <p>
-    <b>종이책 독서를 자동으로 기록하는<br/>
-    하이브리드 독서 관리 시스템</b>
+  <h1>HECHI -
+    종이책 X 디지털 : 하이브리드 독서 경험 서비스
   </p>
+  </h1>
 </div>
 
 
