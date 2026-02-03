@@ -151,8 +151,8 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 
 | 파트                           | GitHub 링크                                                                                                          |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🖥 **Backend**               | [https://github.com/HECHI-Capstone-Design/hechi-backend](https://github.com/HECHI-Capstone-Design/hechi-backend)   |
-| 📱 **Frontend (Mobile App)** | [https://github.com/HECHI-Capstone-Design/hechi-frontend](https://github.com/HECHI-Capstone-Design/hechi-frontend) |
+| 🖥 **Backend**               | [https://github.com/HECHI-Capstone-Design/HECHI-BE](https://github.com/HECHI-Capstone-Design/HECHI-BE)   |
+| 📱 **Frontend (Mobile App)** | [https://github.com/HECHI-Capstone-Design/HECHI-FE](https://github.com/HECHI-Capstone-Design/HECHI-FE) |
 
 
 
