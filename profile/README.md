@@ -137,7 +137,7 @@ DRM 제한, 네트워크 의존성, 화면 피로도라는 한계를 가지고 �
 | 프로필                                                      | 이름                                      | 역할                                  |
 | -------------------------------------------------------- | --------------------------------------- | ----------------------------------- |
 | <img src="https://github.com/sunmer79.png" width="60"/>  | [**강여름**](https://github.com/sunmer79)  | PM · Frontend · Mobile App · Design |
-| <img src="https://github.com/seong-hyeon5628842.png" width="60"/> | [**조성현**](https://github.comseong-hyeon5628842) | Frontend · Mobile App · Design|
+| <img src="https://github.com/seong-hyeon5628842.png" width="60"/> | [**조성현**](https://github.com/seong-hyeon5628842) | Frontend · Mobile App · Design|
 | <img src="https://github.com/Kimhyorim123.png" width="60"/> | [**김효림**](https://github.com/Kimhyorim123) | Backend · Server|
 | <img src="https://github.com/toqls.png" width="60"/> | [**백새빈**](https://github.com/toqls) | Frontend · Mobile App · Design|
 | <img src="https://github.com/SUB1023.png" width="60"/>   | [**손유빈**](https://github.com/SUB1023)   | Backend · Hardware |
